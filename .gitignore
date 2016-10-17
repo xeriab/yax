@@ -1,0 +1,9 @@
+.idea
+.brackets.json
+node_modules
+projectFilesBackup
+Distribution
+Tests/assets/christmas_snow.jpg
+Tests/assets/christmas_snow.mp4
+Tests/assets/christmas_snow.ogv
+Tests/assets/christmas_snow.webm
