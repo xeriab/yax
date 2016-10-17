@@ -1,0 +1,38 @@
+{
+    "name": "yaxjs",
+    "version": "0.1.0",
+    "readmeFilename": "README.md",
+    "description": "Yet another #JavaScript extensible library",
+    "private": false,
+    "main": "dist/yax.core.js",
+    "style": "",
+    "keywords": ["js", "html5", "javascript"],
+    "author": "Xeriab Nabil (aka KodeBurner) <kodeburner@gmail.com>",
+    "license": "MIT",
+    "homepage": "https://xeriab.github.io/projects/yax",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/xeriab/yax"
+    },
+    "engines": {
+        "node": ">=6.x"
+    },
+    "dependencies": {},
+    "files": [
+        "LICENSE",
+        "README.md",
+        "HISTORY.md",
+        "TODO.md"
+    ],
+    "devDependencies": {
+        "babel-eslint": "~7.0.0",
+        "babel-preset-stage-0": "~6.16.0",
+        "babel-tape-runner": "~2.0.1",
+        "eslint": "~3.4.0",
+        "supertest": "*",
+        "tape": "~4.6.0"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    }
+}
